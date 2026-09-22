@@ -1,0 +1,12 @@
+{
+  "title": "Franklin County large-parcel research: 57 records, edition 5",
+  "records": 57,
+  "fields": 70,
+  "owners": 57,
+  "geometries": 56,
+  "flood_full_mapping": 56,
+  "zoning_full_mapping": 30,
+  "zoning_any_mapping": 52,
+  "school_context": 56,
+  "sfha_intersects": 26
+}

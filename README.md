@@ -1,4 +1,4 @@
-# LandSight Ohio property-data samples
+# LandSight property-data samples
 
 Free five-record previews of completed **Franklin County, Ohio** property research datasets from LandSight Solutions LLC, maker of ParcelMetric.
 
@@ -42,3 +42,21 @@ These public samples may be used to evaluate the files for internal business res
 Official GIS screening does not certify title, legal access, utility capacity, approved use, physical vacancy, sale availability, school assignment or project suitability. Nearest school is not guaranteed attendance. FEMA overlap is not a lender flood certificate. Public tax-use vacancy coding is not a site inspection. See each product's methodology for field definitions and limits.
 
 Published by [LandSight Solutions LLC](https://www.landsightsolutions.com/data).
+
+
+## Additional county previews
+
+| Location | Full records | Recorded owner names | Price | Free sample |
+| --- | ---: | ---: | ---: | --- |
+| Nantucket County, Massachusetts | 13,801 | 13,325 | $9 | [CSV](samples/ma-nantucket.csv) |
+| Aransas County, Texas | 24,331 | 24,243 | $9 | [CSV](samples/tx-aransas.csv) |
+
+These two files use **2024 source snapshots imported in March 2026**. September 2026 flood and school enrichment does not refresh ownership. The Nantucket file includes assessor zoning attributes, not a fresh zoning overlay; Aransas has no zoning coverage. Aransas contains explicitly flagged boundary recovery from duplicated rings; original geometry evidence is included in the full ZIP. Unrecoverable geometry remains null. School virtual status may be unknown; nearest schools are not attendance assignments.
+
+Inspect the product-specific coverage and methodology before buying:
+
+- [Nantucket sample, coverage and purchase](https://d1smz6abqg4klu.cloudfront.net/research/ma-nantucket/index.html)
+- [Aransas sample, coverage and purchase](https://d1smz6abqg4klu.cloudfront.net/research/tx-aransas/index.html)
+- [Search county inventory and request a sample](https://www.landsightsolutions.com/data#coverage)
+
+The county finder includes partial imports and sample checks, not a promise that every county has a complete, enriched file ready for sale.

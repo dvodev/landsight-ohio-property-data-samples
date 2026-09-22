@@ -1,0 +1,12 @@
+{
+  "title": "Franklin County, Ohio \u2014 Residential, commercial and industrial tax-coded vacant land \u2014 all acreage",
+  "records": 12791,
+  "fields": 50,
+  "owners": 12791,
+  "geometries": 12762,
+  "flood_full_mapping": 12731,
+  "zoning_full_mapping": 4639,
+  "zoning_any_mapping": 9402,
+  "school_context": 12762,
+  "sfha_intersects": 923
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Aransas County, Texas property research",
+  "records": 24331,
+  "fields": 56,
+  "owners": 24243,
+  "tax_mailing_addresses": 24238,
+  "site_addresses": 24240,
+  "geometries": 23645,
+  "flood_full_mapping": 23619,
+  "school_context": 23645,
+  "assessor_zoning_attributes": 0,
+  "zoning_full_mapping": 0,
+  "zoning_any_mapping": 0,
+  "sfha_intersects": 8104,
+  "assessment_years": {
+    "2024": 24331
+  },
+  "source_acquisition_dates": {
+    "20240401": 24331
+  },
+  "import_dates": {
+    "2026-03-02T20:01:22.000Z": 1,
+    "2026-03-02T20:01:23.000Z": 91,
+    "2026-03-02T20:01:24.000Z": 992,
+    "2026-03-02T20:01:25.000Z": 969,
+    "2026-03-02T20:01:26.000Z": 941,
+    "2026-03-02T20:01:27.000Z": 987,
+    "2026-03-02T20:01:28.000Z": 947,
+    "2026-03-02T20:01:29.000Z": 952,
+    "2026-03-02T20:01:30.000Z": 992,
+    "2026-03-02T20:01:31.000Z": 977,
+    "2026-03-02T20:01:32.000Z": 881,
+    "2026-03-02T20:01:33.000Z": 956,
+    "2026-03-02T20:01:34.000Z": 978,
+    "2026-03-02T20:01:35.000Z": 933,
+    "2026-03-02T20:01:36.000Z": 906,
+    "2026-03-02T20:01:37.000Z": 966,
+    "2026-03-02T20:01:38.000Z": 956,
+    "2026-03-02T20:01:39.000Z": 962,
+    "2026-03-02T20:01:40.000Z": 892,
+    "2026-03-02T20:01:41.000Z": 950,
+    "2026-03-02T20:01:42.000Z": 932,
+    "2026-03-02T20:01:43.000Z": 923,
+    "2026-03-02T20:01:44.000Z": 968,
+    "2026-03-02T20:01:45.000Z": 934,
+    "2026-03-02T20:01:46.000Z": 979,
+    "2026-03-02T20:01:47.000Z": 425,
+    "2026-03-02T20:01:48.000Z": 916,
+    "2026-03-02T20:01:49.000Z": 866,
+    "2026-03-02T20:01:50.000Z": 159
+  },
+  "county_geometry_validation": {
+    "recovered_valid_inside_county": 23645,
+    "invalid_or_missing_geometry": 686
+  },
+  "excluded_outside_county": 1,
+  "scope": "Imported county parcel selection, all represented tax classes and lot sizes; completeness against a current assessor roll is not certified.",
+  "usd_total": 9,
+  "geometry_recovered_exact_duplicate_rings": 23645
+}

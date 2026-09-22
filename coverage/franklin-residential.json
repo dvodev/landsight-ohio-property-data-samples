@@ -1,0 +1,12 @@
+{
+  "title": "Franklin County, Ohio \u2014 Two- and three-family residential property research",
+  "records": 13108,
+  "fields": 50,
+  "owners": 13108,
+  "geometries": 13092,
+  "flood_full_mapping": 13087,
+  "zoning_full_mapping": 1929,
+  "zoning_any_mapping": 11154,
+  "school_context": 13092,
+  "sfha_intersects": 402
+}

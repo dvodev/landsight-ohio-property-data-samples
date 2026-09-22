@@ -55,8 +55,8 @@ These two files use **2024 source snapshots imported in March 2026**. September 
 
 Inspect the product-specific coverage and methodology before buying:
 
-- [Nantucket sample, coverage and purchase](https://d1smz6abqg4klu.cloudfront.net/research/ma-nantucket/index.html)
-- [Aransas sample, coverage and purchase](https://d1smz6abqg4klu.cloudfront.net/research/tx-aransas/index.html)
+- [Nantucket sample, coverage and purchase](https://www.landsightsolutions.com/data/ma-nantucket)
+- [Aransas sample, coverage and purchase](https://www.landsightsolutions.com/data/tx-aransas)
 - [Search county inventory and request a sample](https://www.landsightsolutions.com/data#coverage)
 
 The county finder includes partial imports and sample checks, not a promise that every county has a complete, enriched file ready for sale.
